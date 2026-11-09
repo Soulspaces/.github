@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0b1a,50:5b21b6,100:a78bfa&height=200&section=header&text=SOULSPACE&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Students%20%C2%B7%20Hackers%20%C2%B7%20Accidental%20Security%20Nerds&descAlignY=58&descSize=17" width="100%"/>
 
-<img src="https://raw.githubusercontent.com/Soulspace/.github/main/profile/logo.svg" width="110" alt="Soulspace ghost logo"/>
+<img src="https://github.com/Soulspaces/.github/blob/main/logo.svg" width="110" alt="Soulspace ghost logo"/>
 
 <a href="https://github.com/Soulspace">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=520&lines=%3E_+we+wandered+into+cybersecurity;physics+%C2%B7+law+%C2%B7+business+%C2%B7+medicine;playing+CTFs+for+fun+and+flags;building+our+own+tools+in+the+dark" alt="typing"/>
